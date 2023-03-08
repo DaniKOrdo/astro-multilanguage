@@ -16,14 +16,15 @@ changeLanguage("es");
     <HeadHrefLangs />
   </head>
   <body>
-    <h1>{t("home.title")}</h1>
-		<LanguageSelector showFlag={true} class="my-select-class" />
-    <p>
-      <Trans i18nKey="home.subtitle">
-        TEST This is a <em>more complex</em> string to translate, mixed with <strong
-          >html elements
-        </strong> such as <a href="https://example.com/">a cool link</a>!
-      </Trans>
-    </p>
+		<div class="flex flex-col items-center justify-center h-screen p-8">
+			<h1>{t("home.title")}</h1>
+			<LanguageSelector showFlag={true} class="my-select-class" />
+			<p>
+				<Trans i18nKey="home.subtitle">
+					Ahora esta página está en <strong>ESPAÑOL</strong>, puedes cambiar el idioma en el deplegable de arriba 
+				</Trans>
+					<p>{t("home.creator")}<a href="https://danik.dev/" target="_blank" class="text-blue-500 underline">DaniK.dev</a></p> 
+			</p>
+		</div>
   </body>
 </html>

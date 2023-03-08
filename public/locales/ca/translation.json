@@ -1,10 +1,11 @@
 {
   "site": {
-    "title": "My awesome website!",
-    "description": "Here is the description of my awesome website!"
+    "title": "Astre multi-llenguatge!",
+    "description": "Petita demo amb astre-i18next"
   },
   "home": {
-    "title": "Welcome to my awesome website!",
-    "subtitle": "CATALAN This is a <0>more complex</0> string to translate, mixed with <1>html elements</1>, such as a <2>a cool link</2>!"
+    "title": "Astre multi-llenguatge!",
+    "subtitle": "Ara aquesta pàgina és a <0>CATALÀ</0>, podeu canviar l'idioma al deplegable de dalt.",
+    "creator": "Creat per  "
   }
 }

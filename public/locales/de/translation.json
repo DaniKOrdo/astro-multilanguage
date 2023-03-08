@@ -1,10 +1,11 @@
 {
   "site": {
-    "title": "My awesome website!",
-    "description": "Here is the description of my awesome website!"
+    "title": "Astro mehrsprachig!",
+    "description": "Kleine Demo mit astro-i18next!"
   },
   "home": {
-    "title": "Welcome to my awesome website!",
-    "subtitle": "ALEMAN This is a <0>more complex</0> string to translate, mixed with <1>html elements</1>, such as a <2>a cool link</2>!"
+    "title": "Astro mehrsprachig!",
+    "subtitle": "Diese Seite ist jetzt in <0>DEUTSCH</0>, Sie können die Sprache in der Dropdown-Liste oben ändern.",
+    "creator": "Erstellt von "
   }
 }
