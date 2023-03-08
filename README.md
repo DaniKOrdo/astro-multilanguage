@@ -1,3 +1,3 @@
 # astro-multilanguage
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-mlg4bj-iyrhsj)
+Project made with [astro-i18next](https://github.com/yassinedoghri/astro-i18next)
